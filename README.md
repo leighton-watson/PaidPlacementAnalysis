@@ -12,14 +12,16 @@ Salary scales are taken from collective employment agreements for each professio
 * Police. [New Zealand Police Constabulary Collective Employment Agreement](https://www.policeassn.org.nz/#/). 
      * Salaries are taken from band G in the 1 July 2022 and 30 June 2023 remuneration scales. A new police officer starts at step 0 and moves up one step each year until they reach step 20, which is the top of the scale. We assume no promotion to higher bands. Band G is for constables, which represent 57% of the constabulary staff. 
     * The salaries listed in the police collective agreement are *total remuneration* and include salary, insurance subsidy ($208), physical competence (PCT) payment ($863), and the employer superannuation subsidy (10.184% of salary).
-* Firefighters: [Collective Employment Agreement](https://www.nzpfu.org.nz/resources/). The salary information is from [Appendix 1](https://www.nzpfu.org.nz/media/website_pages/resources/Appendix-One-Final-TOS-to-pdf.pdf). Rates are for 2023/2024.
+* Firefighters: [Collective Employment Agreement](https://www.nzpfu.org.nz/resources/). The salary information is from [Appendix 1](https://www.nzpfu.org.nz/media/website_pages/resources/Appendix-One-Final-TOS-to-pdf.pdf). Rates are for 2023/2024. ND stands for non-driver. 
     * Year 1 is at the *Trainee Firefighter - ND* rate.
     * Years 2 and 3 are at the *Firefighter - ND* rate.
     * Years 4 and 5 are at the *Qualified Firefighter - ND* rate.
-    * Years 6 and above are at the *Senior Firefighters - ND* rate.
+    * Years 6 and above are at the *Senior Firefighter - ND* rate.
 
-The salary information in this repository is up-to-date as of June 2024. The salary information will change as collective employment agreements are renegotiated. For the most up-to-date information, contact the unions:
-* Teachers: [New Zealand Education Institute (NZEI) Te Riu Roa](https://www.nzeiteriuroa.org.nz/)
+The salaries used here represent the typical base salary and do not include any overtime, additional responsibilities (e.g., driver roles for firefighters or units for teachers), or promotions (e.g., a police officer is assumed to stay at the constable level and is not promoted to a higher band).
+
+The salary information in this repository is up-to-date as of June 2024. The salary information will change as collective employment agreements are renegotiated and wage increases are incorporated. For the most up-to-date information, contact the appropriate unions:
+* Teachers: [New Zealand Education Institute (NZEI) Te Riu Roa](https://www.nzeiteriuroa.org.nz/) and [New Zealand Post Primary Teachers' Association](https://www.ppta.org.nz/)
 * Nurses: [New Zealand Nurses Organisation](https://www.nzno.org.nz/)
 * Midwives: [New Zealand College of Midwives](https://meras.midwife.org.nz/)
 * Social Workers: [Aotearoa New Zealand Association of Social Workers](https://www.anzasw.nz/)
